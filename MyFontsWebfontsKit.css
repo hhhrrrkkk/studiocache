@@ -19,10 +19,10 @@
 
 
 /* @import must be at top of file, otherwise CSS will not work */
-@import url("//hello.myfonts.net/count/4cf326");
+@import url("https://hello.myfonts.net/count/4cf326");
   
 @font-face {
   font-family: "GrouchITCbyBT-Regular";
-  src: url('//cdn.jsdelivr.net/gh/hhhrrrkkk/studiocache/blob/main/GrouchITCbyBTRegular/font.woff2') format('woff2'), url('//cdn.jsdelivr.net/gh/hhhrrrkkk/studiocache/blob/main/GrouchITCbyBTRegular/font.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/hhhrrrkkk/studiocache/blob/main/GrouchITCbyBTRegular/font.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/hhhrrrkkk/studiocache/blob/main/GrouchITCbyBTRegular/font.woff') format('woff');
 }
 
